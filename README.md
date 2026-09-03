@@ -21,3 +21,9 @@ source venv/bin/activate
 
 # Instalar dependências fixadas
 pip install -r requirements.txt
+
+#Execução do teste automatizado
+python -m pytest
+
+#Execução do benchmark e verificação de latência
+python evaluate.py
