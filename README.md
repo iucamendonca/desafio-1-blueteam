@@ -9,7 +9,7 @@ Filtro de segurança e alinhamento de domínio para assistentes de e-commerce de
 ### 1. Clonar e Configurar Ambiente
 ```bash
 git clone https://github.com/iucamendonca/desafio-1-blueteam.git
-cd desafio-guardrail
+cd desafio-1-blueteam
 
 # Criar e ativar ambiente virtual
 python -m venv venv
