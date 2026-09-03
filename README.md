@@ -8,7 +8,7 @@ Filtro de segurança e alinhamento de domínio para assistentes de e-commerce de
 
 ### 1. Clonar e Configurar Ambiente
 ```bash
-git clone <https://github.com/iucamendonca/desafio-1-blueteam.git>
+git clone https://github.com/iucamendonca/desafio-1-blueteam.git
 cd desafio-guardrail
 
 # Criar e ativar ambiente virtual
